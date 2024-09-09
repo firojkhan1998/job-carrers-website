@@ -1,2 +1,2 @@
-# jon-carrers-website
+# job-carrers-website
 A careers website
